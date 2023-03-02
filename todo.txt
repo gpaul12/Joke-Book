@@ -1,0 +1,7 @@
+
+populate our form with that joke
+make it pretty with css
+
+----maybe?
+
+click a button on any joke to remove it from the list and storage
